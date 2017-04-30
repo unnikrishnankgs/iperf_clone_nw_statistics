@@ -1,3 +1,4 @@
+#./lls_loop_iperf.sh ./src/iperf -c 192.168.0.77 -i 5 -f m -u
 #rm stat.csv
 while :
 do
